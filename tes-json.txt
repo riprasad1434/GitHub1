@@ -1,0 +1,16 @@
+﻿[
+{"Sample Name":"PK-51","Units":"µg/mL","Mean Conc.":"1.37","% CV":"0.61"},
+{"Sample Name":"PK-52","Units":"µg/mL","Mean Conc.":"1.24","% CV":"0.35"},
+{"Sample Name":"PK-53","Units":"µg/mL","Mean Conc.":"1.8","% CV":"4.76"},
+{"Sample Name":"PK-54","Units":"µg/mL","Mean Conc.":"3.73","% CV":"2.73"},
+{"Sample Name":"PK-55","Units":"µg/mL","Mean Conc.":"3.23","% CV":"1.32"},
+{"Sample Name":"PK-56","Units":"µg/mL","Mean Conc.":"4.23","% CV":"4.91"},
+{"Sample Name":"PK-57","Units":"µg/mL","Mean Conc.":"24.8","% CV":"0.78"},
+{"Sample Name":"PK-58","Units":"µg/mL","Mean Conc.":"23.9","% CV":"1.73"},
+{"Sample Name":"PKB","Units":"µg/mL","Mean Conc.":"131","% CV":"2.39"},
+{"Sample Name":"PKC","Units":"µg/mL","Mean Conc.":"25.6","% CV":"1"},
+{"Sample Name":"PK-59","Units":"µg/mL","Mean Conc.":"24.8","% CV":"0.78"},
+{"Sample Name":"PK-60","Units":"µg/mL","Mean Conc.":"23.9","% CV":"1.73"},
+{"Sample Name":"Viscocity","Viscosity":"9.21","RPM":"12","Torque":"36","Units":"cPs"},
+{"Sample Name":"KF","Water Content":"2.356","Units":"% H20"}
+]
